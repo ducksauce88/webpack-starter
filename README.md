@@ -1,3 +1,6 @@
+This fork is meant to assist in the setup and install for the pluralsight JavaScript path. 
+______________________________________
+
 # Webpack Frontend Starterkit
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/wbkd/webpack-starter.svg)](https://greenkeeper.io/)
